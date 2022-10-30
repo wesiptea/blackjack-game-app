@@ -1,5 +1,6 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-size: 16px;
+    font-family: 'Rye', cursive;    
     background-image: url("images/table.png");
     background-size: cover;
     font-weight: bold;
@@ -9,10 +10,19 @@ body {
 
 h1 {
     color: goldenrod;
+    font-kerning: 2em;
+    font-size: 3em;
+}
+
+p {
+    color:black;
+    font-size: 1.25em;
+    font-style: none;
 }
 
 #message-el {
-    font-style: italic;
+    color: whitesmoke;
+    font-size: 1.5em;
 }
 
 button {

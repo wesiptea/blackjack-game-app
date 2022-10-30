@@ -63,3 +63,5 @@ function drawNewCard() {
         renderGame()
     }
 }
+
+// possible updates: changes to player's name and $ across games
